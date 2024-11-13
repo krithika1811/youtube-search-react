@@ -1,0 +1,19 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background-color: #FF0000;
+  }
+  
+  .youtube-icon {
+    font-size: 2rem; /* Adjust the icon size */
+    color: #FFFFFF; /* Icon color to match the YouTube logo */
+    margin-right: 10px;
+  }
+  
+  .navbar-title {
+    font-size: 1.5rem;
+    color: #FFFFFF;
+    font-weight: bold;
+  }
+  
